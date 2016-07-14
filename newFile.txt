@@ -1,3 +1,5 @@
 This is a new file in test-branch
 
-Adding a new line on github.com -- Eric Q
+Adding a new line on github.com -- Eric
+
+Adding a line in Atom on "adding-stuff" branch
